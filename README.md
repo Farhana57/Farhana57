@@ -36,9 +36,9 @@
 ---
 
 ### 📱 Connect with me
-- <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> **[Farhana Khatun](https://www.linkedin.com/in/farhana-khatun-828691405)**
-- <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/> **[Farhana Tania](https://www.facebook.com/share/1CtqsccguM/)**
-- <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/> **[01759945057](https://wa.me/8801759945057)**
+- <a href="https://www.linkedin.com/in/farhana-khatun-828691405" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> **[Farhana Khatun](https://www.linkedin.com/in/farhana-khatun-828691405)**
+- <a href="https://www.facebook.com/share/1CtqsccguM/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a> **[Farhana Tania](https://www.facebook.com/share/1CtqsccguM/)**
+- <a href="https://wa.me/8801759945057" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a> **[01759945057](https://wa.me/8801759945057)**
 
 ---
 
