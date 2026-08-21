@@ -21,7 +21,7 @@
 ---
 
 ### 📱 Connect with me
-- **LinkedIn:** [Farhana Khatun](www.linkedin.com/in/farhana-khatun-828691405)
+- **LinkedIn:** [Farhana Khatun](https://www.linkedin.com/in/farhana-khatun-828691405)
 - **Facebook:** [Farhana Tania](https://www.facebook.com/share/1CtqsccguM/)
 - **WhatsApp:** [01759945057](https://wa.me/8801759945057)
 
