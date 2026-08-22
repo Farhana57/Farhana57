@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -31,6 +32,15 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
 <img src="https://img.shields.io/badge/Inkscape-%23000000.svg?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape" />
+
+---
+
+### 🚀 Featured Project
+
+#### 🛒 **Jahan Traders (Backend & Database Server)**
+An e-commerce and trading backend server built to manage data securely.
+* **Tech Used:** Node.js, Express.js, MongoDB, Mongoose, Dotenv, CORS.
+* **Highlights:** Successfully configured RESTful architecture, secure environment management, and stable MongoDB Atlas cluster connection.
 
 ---
 
