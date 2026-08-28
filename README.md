@@ -57,6 +57,14 @@ An e-commerce and trading backend server built to manage data securely.
 - <a href="https://wa.me/8801759945057" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a> **[01759945057](https://wa.me/8801759945057)**
 
 ---
+---
 
+### 🎓 Certifications
+
+#### Full Stack Web Development — Ostad
+
+<img src="./ostad-full-stack-certificate.jpg" alt="Ostad Full Stack Web Development Certificate" width="700"/>
+
+---
 ### ⚡ Fun Fact
 > "Always learning, building, and growing."
