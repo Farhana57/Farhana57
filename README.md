@@ -63,7 +63,7 @@ An e-commerce and trading backend server built to manage data securely.
 
 #### Full Stack Web Development — Ostad
 
-<img src="./ostad-full-stack-certificate.jpg" alt="Ostad Full Stack Web Development Certificate" width="700"/>
+<img src="ostad-full-stack-certificate.jpg.jpeg" alt="Ostad Full Stack Web Development Certificate" width="700"/>
 
 ---
 ### ⚡ Fun Fact
