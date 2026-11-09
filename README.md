@@ -4,7 +4,7 @@
   </a>
 </p>
 
-- 💼 **Executive Officer & HR** at uptotechsyl.com
+- 💼 **Executive Officer & HR** at [uptotechsyl.com](https://uptotechsyl.com)
 - 💻 **Web Designer & Developer** 
 - 🚀 Passionate about MERN stack development and building amazing web applications.
 
@@ -39,13 +39,13 @@
 
 #### 🛒 **Jahan Traders (Backend & Database Server)**
 An e-commerce and trading backend server built to manage data securely.
-* **Tech Used:** Node.js, Express.js, MongoDB, Mongoose, Dotenv, CORS.
-* **Highlights:** Successfully configured RESTful architecture, secure environment management, and stable MongoDB Atlas cluster connection.
+- **Tech Used:** Node.js, Express.js, MongoDB, Mongoose, Dotenv, CORS.
+- **Highlights:** Successfully configured RESTful architecture, secure environment management, and stable MongoDB Atlas cluster connection.
 
 ---
 
 ### 🌐 Connect with my work
-<a href="https://farhana57.github.io/my-portfolio/" target="_blank">
+<a href="https://farhana-khatun.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
